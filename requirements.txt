@@ -3,3 +3,4 @@ azure-identity
 python-dotenv
 ipykernel
 notebook
+azure-ai-agents
