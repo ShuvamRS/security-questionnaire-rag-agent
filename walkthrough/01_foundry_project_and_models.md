@@ -1,6 +1,6 @@
-# 01 — Azure AI Foundry Project and Model Deployments
+# Azure AI Foundry Project and Model Deployments
 
-This section creates the main Azure AI Foundry project and deploys the two model types needed for the walkthrough:
+This section creates the main Azure AI Foundry project and deploys the two model types:
 
 * a chat model for agent reasoning and responses
 * an embedding model for Azure AI Search vectorization
