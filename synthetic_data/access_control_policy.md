@@ -9,7 +9,7 @@
 
 ## 1. Purpose
 
-This Access Control Policy defines how AcmeCloud Analytics manages employee, administrator, and production access to systems that support the AcmeCloud Analytics platform. The policy is designed for a fictional RAG demonstration and contains synthetic control details that may be cited by an automated trust-response workflow.
+This Access Control Policy defines how AcmeCloud Analytics manages employee, administrator, and production access to systems that support the AcmeCloud Analytics platform. The policy is designed for a fictional RAG demonstration and contains synthetic control details that may be cited by an automated security questionnaire response workflow.
 
 The goal of access control at AcmeCloud Analytics is to limit access to systems, data, and administrative functions based on business need. Access decisions are based on job responsibilities, approved roles, and least-privilege principles. This policy applies to employees, contractors, temporary staff, and approved support personnel who access company-managed systems.
 

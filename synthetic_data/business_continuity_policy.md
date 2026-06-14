@@ -85,4 +85,4 @@ This policy does not provide a public status page URL, customer notification dea
 
 ## 10. Limitations
 
-This synthetic policy does not claim that AcmeCloud Analytics has achieved any external certification or completed an independent business continuity audit. It is intended only as fictional evidence for a trust/security questionnaire RAG workflow.
+This synthetic policy does not claim that AcmeCloud Analytics has achieved any external certification or completed an independent business continuity audit. It is intended only as fictional evidence for a security questionnaire RAG workflow.

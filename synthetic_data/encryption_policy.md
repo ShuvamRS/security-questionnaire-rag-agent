@@ -74,4 +74,4 @@ Customers are responsible for managing user access inside their own reporting wo
 
 ## 10. Limitations
 
-This document is synthetic and does not claim external certification, regulatory compliance, or completion of an independent security audit. It should be used only as fictional evidence for a trust-response-agent portfolio project.
+This document is synthetic and does not claim external certification, regulatory compliance, or completion of an independent security audit. It should be used only as fictional evidence for a security-questionnaire-rag-agent portfolio project.
